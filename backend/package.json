@@ -1,0 +1,34 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend for a Flutter book store app that allows offline caching and HIVE attachemnet",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreelanceFrameworks/Book_store.git"
+  },
+  "keywords": [
+    "Flutter",
+    "AI",
+    "Google",
+    "Books.",
+    "Open_AI",
+    "PExels"
+  ],
+  "author": "Michelle Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FreelanceFrameworks/Book_store/issues"
+  },
+  "homepage": "https://github.com/FreelanceFrameworks/Book_store#readme",
+  "dependencies": {
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.4"
+  }
+}
