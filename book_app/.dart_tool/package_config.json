@@ -213,9 +213,9 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.16.0",
+      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.17.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.5"
     },
     {
       "name": "nested",
@@ -249,13 +249,13 @@
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.20",
+      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.21",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
     {
       "name": "path_provider_foundation",
-      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_foundation-2.4.3",
+      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_foundation-2.4.4",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
@@ -381,7 +381,7 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.6",
+      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.7",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
@@ -399,25 +399,25 @@
     },
     {
       "name": "url_launcher_android",
-      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.3.24",
+      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.3.25",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
     {
       "name": "url_launcher_ios",
-      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_ios-6.3.5",
+      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_ios-6.3.6",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
     {
       "name": "url_launcher_linux",
-      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_linux-3.2.1",
+      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_linux-3.2.2",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.8"
     },
     {
       "name": "url_launcher_macos",
-      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_macos-3.2.4",
+      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_macos-3.2.5",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
@@ -435,9 +435,9 @@
     },
     {
       "name": "url_launcher_windows",
-      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_windows-3.1.4",
+      "rootUri": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_windows-3.1.5",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.8"
     },
     {
       "name": "uuid",
@@ -483,8 +483,8 @@
     }
   ],
   "generator": "pub",
-  "generatorVersion": "3.9.2",
+  "generatorVersion": "3.10.0",
   "flutterRoot": "file:///C:/flutter",
-  "flutterVersion": "3.35.7",
+  "flutterVersion": "3.38.1",
   "pubCache": "file:///C:/Users/Chelle/AppData/Local/Pub/Cache"
 }
